@@ -36,7 +36,7 @@ Build your own public repo on github, and call it whatever you like. Build your 
 repo, and include a README.md file that contains the detailed instructions for running your web app.
 Email the URL for your github repo to opsmanagers@britecore.com once you begin the project so we can review 
 your progress. Prior to submission, please bring up a live hosted example. AWS has a free tier if you 
-aren't certain where to host.
+aren't certain where to host. Once your project is completed, please email opsmanagers@britecore.com.
 
 One of the major goals in this project is to see how you fill in ambiguities in your own creative
 way. There is no such thing as a perfect project here, just interpretations of the instructions
