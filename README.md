@@ -1,5 +1,6 @@
 # Engineering Project
 This is a project that we use for testing potential team members on their technical skills.
+It is based on requirements supplied to Britecore.
 
 ## Feature Request App
 Build a web application that allows the user to create "feature requests".
@@ -22,21 +23,21 @@ other feature requests for that client should be reordered.
 ## Tech Stack Requirements
 The following are requirements on the tech stack. This stack demonstrates mastery of tools our team favors.
 
-* OS: Ubuntu
-* Server Side Scripting: Python 2.7+ or 3.5+
-* Server Framework: Flask or SimpleHTTPServer
-* ORM: Sql-Alchemy
-* JavaScript: KnockoutJS
+* Server Side Scripting: Python 3.6+
+* Server Framework: Django
+* ORM: Django
+* JavaScript: VueJS SPA or VueJS embedded in Django templates
+* Deployment: Any but bonus points for Zappa
 
 Make sure that your instructions for accessing or otherwise running your code are extremely clear.
 
 ## Guidelines
 
-Build your own public repo on github, and call it whatever you like. Build your solution in your
+Build your own public repo on github or gitlab, and call it whatever you like. Build your solution in your
 repo, and include a README.md file that contains the detailed instructions for running your web app.
-Email the URL for your github repo to opsmanagers@britecore.com once you begin the project so we can review 
-your progress. Prior to submission, please bring up a live hosted example. AWS has a free tier if you 
-aren't certain where to host. Once your project is completed, please email opsmanagers@britecore.com.
+Email the URL for your github repo to your Britecore contact point once you begin the project so we
+can review your progress. Prior to submission, please bring up a live hosted example. AWS has a free
+tier if you aren't certain where to host. Once your project is completed, please email your contact point.
 
 One of the major goals in this project is to see how you fill in ambiguities in your own creative
 way. There is no such thing as a perfect project here, just interpretations of the instructions
@@ -62,7 +63,7 @@ proprietary software, you won't be helping yourself to use it in this project.
 
 5. *Usable, Responsive Interface*. There are many accessible CSS frameworks out there such as Bootstrap. All modern web applications should be responsive and these frameworks make it very easy to create a modern interface that adheres to established design principles and formats well on all devices.
 
-6. *MVVM Frontend*. The modern web is highly interactive. Projects like Knockout.js make it very easy to deploy HTML bindings that interact with interface elements dependably and efficiently.
+6. *MVVM Frontend*. The modern web is highly interactive. Projects like VueJS make it very easy to deploy HTML bindings that interact with interface elements dependably and efficiently.
 
 --
 
