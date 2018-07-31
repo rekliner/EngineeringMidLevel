@@ -53,7 +53,7 @@ these features in their work.
 TECHNOLOGY
 
 1. *Open Source*. We have a strong affinity for open source technology. If your go-to technology stack includes
-proprietary software, you won't be helping yourself to use it in this project.
+proprietary software (except for AWS), you won't be helping yourself to use it in this project.
 
 2. *Decoupled Backend*. We are looking for candidates with a strong understanding of the entire web application stack. The best projects will completely decouple the backend and the front end and communciate via API.
 
