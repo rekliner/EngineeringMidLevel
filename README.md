@@ -21,7 +21,7 @@ other feature requests for that client should be reordered.
 'Reports')
 
 ## Tech Stack Requirements
-The following are requirements on the tech stack. This stack demonstrates mastery of tools our team favors.
+The following are requirements on the tech stack. This stack lists the tools our team favors. 
 
 * Server Side Scripting: Python 3.6+
 * Server Framework: Django
